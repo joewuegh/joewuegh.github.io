@@ -1,3 +1,5 @@
+<?php
+ header("Access-Control-Allow-Origin: *");
 {
 "records":[
 {"Name":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
