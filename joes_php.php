@@ -1,5 +1,4 @@
-<?php
- header("Access-Control-Allow-Origin: *");
+<?php header('Access-Control-Allow-Origin: *'); ?>
 {
 "records":[
 {"Name":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
@@ -19,4 +18,3 @@
 {"Name":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"}
 ]
 }
-?>
