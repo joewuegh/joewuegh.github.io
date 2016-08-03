@@ -1,3 +1,4 @@
+Call Response.AddHeader("Access-Control-Allow-Origin", "*")
 <?php header('Access-Control-Allow-Origin: *'); ?>
 {
 "records":[
